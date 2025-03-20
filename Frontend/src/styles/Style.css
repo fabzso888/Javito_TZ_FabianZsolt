@@ -1,0 +1,17 @@
+#szelsoDiv{
+    background-color: beige;
+}
+#nagyLista{
+    background-color: white;
+    list-style: none;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+#kisLista{
+    list-style: none;
+}
+#tajekoztatoOldal{
+    font-weight: bold;
+    font-style: italic;
+    color: blue;
+}
