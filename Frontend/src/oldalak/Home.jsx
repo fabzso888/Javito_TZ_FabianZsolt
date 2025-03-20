@@ -14,7 +14,7 @@ const Home = (() => {
                     <div id="szelsoDiv" className="col-4">
                         <h2>Központi felvételi tájékoztató</h2>
                         <p>A középiskolákba történő jelentkezés során az iskolák határozzák meg, hogy a felvételi rangsort mi alapján döntik el. A Jószakma Szakgimnázium a felvételi során az általános iskolából hozott és a központi felvételin szerzett pontok alapján rangsorolja az iskolába jelentkezőket.</p>
-                        <Link to="" id="tajekoztatoOldal">Tájékoztató oldal</Link><br />
+                        <Link to="https://www.oktatas.hu/kozneveles/kozepfoku_felveteli_eljaras/kozepfoku_felveteli_eljaras_informacioi" target="blank_" id="tajekoztatoOldal">Tájékoztató oldal</Link><br />
                         <img src="logo.png" alt="OKTATÁSI HIVATAL" />
                     </div>
                     <div className="col-4">
